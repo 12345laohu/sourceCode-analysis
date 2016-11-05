@@ -2,4 +2,6 @@
 
 ##来源
 
-### https://github.com/JlineZen/backbone
+### backbone&&underscore  https://github.com/JlineZen/backbone
+### underscore  https://github.com/hanzichi/underscore-analysis
+### sea.js    https://github.com/yishuangxi/seajs/blob/master/sea.js
